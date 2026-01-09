@@ -8,7 +8,7 @@ FastAPI applications work, without going into asynchronous programming yet
 
 ## What I Learned Today
 
-### 🧩 1. What FastAPI Is
+### 1. What FastAPI Is
 
 FastAPI is a modern, high-performance web framework in Python for building APIs.
 It uses Python type hints for clarity and automatic data validation and supports
@@ -16,7 +16,7 @@ efficient asynchronous operations for scalability.
 
 ---
 
-### ⚙️ 2. FastAPI Architecture (High-Level)
+### 2. FastAPI Architecture (High-Level)
 
 FastAPI sits on top of three major components:
 
@@ -28,7 +28,7 @@ Together these provide performance, validation, and developer ergonomics.
 
 ---
 
-### 🧱 3. First FastAPI App
+### 3. First FastAPI App
 
 I wrote my first small FastAPI application that creates a FastAPI instance,
 defines a route using a decorator, and returns JSON to the client. This gave me
@@ -36,7 +36,7 @@ a concrete understanding of how FastAPI handles requests and responses.
 
 ---
 
-### 🚫 Note on Async Code
+### Note on Async Code
 
 I intentionally did not attempt to understand asynchronous code yet. I encountered
 async examples only for exposure, but I will explore FastAPI’s async behavior
