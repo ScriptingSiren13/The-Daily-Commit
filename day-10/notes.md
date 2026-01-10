@@ -91,8 +91,4 @@ Identity services typically handle:
 
 There are many additional components (e.g., permissions, refresh tokens, session handling, MFA, etc.) that I have not yet covered. For now, I studied the above subset.
 
----
 
-## Status
-
-Today was purely conceptual and architecture-oriented. I did not implement code; I only studied how these parts fit into an identity service built with FastAPI.
