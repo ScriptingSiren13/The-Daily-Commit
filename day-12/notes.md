@@ -10,7 +10,7 @@ LLMs normally produce **unstructured plain text**, which is optimized for humans
 
 ---
 
-## 🧩 Why It Matters
+##  Why It Matters
 
 Structured output enables LLMs to integrate with:
 
@@ -24,7 +24,7 @@ This changes LLMs from pure conversational tools into **general software compone
 
 ---
 
-## 🧱 Schema Formats Compared
+##  Schema Formats Compared
 
 I studied three common schema formats:
 
